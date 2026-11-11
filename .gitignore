@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.log
+.DS_Store
+# nada de capturas en el repo (tienen copyright)
+*.png
+*.jpg
+*.jpeg
+*.webp
